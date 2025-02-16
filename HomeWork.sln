@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HomeWork on Logic Developme
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Home Work on C Language Basics", "..\Home Work on C Language Basics\Home Work on C Language Basics.vcxproj", "{369DDE09-B1E0-4D8A-94FC-B715159BCB49}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Home Work on Decision Making", "..\Home Work on Decision Making\Home Work on Decision Making.vcxproj", "{0BB60447-D213-4D3A-BD32-FC87ABBDE5B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{369DDE09-B1E0-4D8A-94FC-B715159BCB49}.Release|x64.Build.0 = Release|x64
 		{369DDE09-B1E0-4D8A-94FC-B715159BCB49}.Release|x86.ActiveCfg = Release|Win32
 		{369DDE09-B1E0-4D8A-94FC-B715159BCB49}.Release|x86.Build.0 = Release|Win32
+		{0BB60447-D213-4D3A-BD32-FC87ABBDE5B1}.Debug|x64.ActiveCfg = Debug|x64
+		{0BB60447-D213-4D3A-BD32-FC87ABBDE5B1}.Debug|x64.Build.0 = Debug|x64
+		{0BB60447-D213-4D3A-BD32-FC87ABBDE5B1}.Debug|x86.ActiveCfg = Debug|Win32
+		{0BB60447-D213-4D3A-BD32-FC87ABBDE5B1}.Debug|x86.Build.0 = Debug|Win32
+		{0BB60447-D213-4D3A-BD32-FC87ABBDE5B1}.Release|x64.ActiveCfg = Release|x64
+		{0BB60447-D213-4D3A-BD32-FC87ABBDE5B1}.Release|x64.Build.0 = Release|x64
+		{0BB60447-D213-4D3A-BD32-FC87ABBDE5B1}.Release|x86.ActiveCfg = Release|Win32
+		{0BB60447-D213-4D3A-BD32-FC87ABBDE5B1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
