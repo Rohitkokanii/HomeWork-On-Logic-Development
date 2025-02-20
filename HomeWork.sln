@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Home Work on Decision Makin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Home Work on Loops I", "..\Home Work on Loops I\Home Work on Loops I.vcxproj", "{CFA58427-2810-4B7B-9347-8D0F81FA0CEE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Home Work on Loops II", "..\Home Work on Loops II\Home Work on Loops II.vcxproj", "{BAAE0216-0F7F-42A1-A6A1-393FA289B64E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{CFA58427-2810-4B7B-9347-8D0F81FA0CEE}.Release|x64.Build.0 = Release|x64
 		{CFA58427-2810-4B7B-9347-8D0F81FA0CEE}.Release|x86.ActiveCfg = Release|Win32
 		{CFA58427-2810-4B7B-9347-8D0F81FA0CEE}.Release|x86.Build.0 = Release|Win32
+		{BAAE0216-0F7F-42A1-A6A1-393FA289B64E}.Debug|x64.ActiveCfg = Debug|x64
+		{BAAE0216-0F7F-42A1-A6A1-393FA289B64E}.Debug|x64.Build.0 = Debug|x64
+		{BAAE0216-0F7F-42A1-A6A1-393FA289B64E}.Debug|x86.ActiveCfg = Debug|Win32
+		{BAAE0216-0F7F-42A1-A6A1-393FA289B64E}.Debug|x86.Build.0 = Debug|Win32
+		{BAAE0216-0F7F-42A1-A6A1-393FA289B64E}.Release|x64.ActiveCfg = Release|x64
+		{BAAE0216-0F7F-42A1-A6A1-393FA289B64E}.Release|x64.Build.0 = Release|x64
+		{BAAE0216-0F7F-42A1-A6A1-393FA289B64E}.Release|x86.ActiveCfg = Release|Win32
+		{BAAE0216-0F7F-42A1-A6A1-393FA289B64E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
